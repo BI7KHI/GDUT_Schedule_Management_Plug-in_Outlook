@@ -4,10 +4,6 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Web%20%7C%20Android%20%7C%20iOS-lightgrey.svg)]()
 
-<div align="center">
-  <img src="./assets/logo.png" alt="GDUT Outlook插件Logo" width="200">
-</div>
-
 ## 📖 项目简介
 
 本项目是一个专为广东工业大学学生设计的Outlook插件，能够自动从教务系统获取课程信息并同步到Outlook日历中，实现课程安排的智能化管理。
